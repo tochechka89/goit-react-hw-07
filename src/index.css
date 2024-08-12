@@ -1,0 +1,13 @@
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  margin: auto;
+}
+
+li {
+  list-style-type: none;
+}
