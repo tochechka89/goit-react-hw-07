@@ -1,7 +1,7 @@
-.list {
-  max-width: 300px;
-}
-
-.listItem {
-  margin-bottom: 20px;
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  list-style: none;
+  padding: 0;
 }
